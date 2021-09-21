@@ -1,6 +1,6 @@
 {
     "private": true,
-    "name": "lincus-external-api",
+    "name": "mern-boilerplate-api",
     "author": "Benjamin Norris",
     "version": "1.0.0",
     "dependencies": {
