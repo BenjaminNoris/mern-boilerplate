@@ -23,7 +23,7 @@ if (error) {
 
 module.exports = {
   env: env.NODE_ENV,
-  listen: env.PORT,
+  port: env.PORT,
   db_host: env.DB_HOST,
   db_name: env.DB_NAME,
   db_username: env.DB_USERNAME,
