@@ -1,5 +1,5 @@
 # MERN+GraphQL Boilerplate  
-Highly scalable MERN+GraphQL boilerplate.  
+Highly scalable MERN+GraphQL boilerplate packaged with Lerna.  
 
 ### Development Setup
 _Configure Environment Variables_  
