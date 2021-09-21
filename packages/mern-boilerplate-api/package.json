@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "name": "lincus-external-api",
+    "author": "Benjamin Norris",
+    "version": "1.0.0",
+    "dependencies": {
+      "express": "~4.16.1",
+      "mern-boilerplate-services": "^1.0.0"
+    }
+  }
+  

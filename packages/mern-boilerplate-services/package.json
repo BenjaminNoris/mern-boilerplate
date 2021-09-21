@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "name": "mern-boilerplate-services",
+    "author": "Benjamin Norris",
+    "version": "1.0.0",
+    "dependencies": {
+        "mern-boilerplate-db": "^1.0.0"
+    }
+}
